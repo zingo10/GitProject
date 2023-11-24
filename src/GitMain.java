@@ -6,6 +6,7 @@ public class GitMain {
 	}
 	
 	public void login() {
-		
+		//로그인 수정
 	}
+	
 }
